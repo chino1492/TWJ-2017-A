@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 Hola amigos
 esta es mi primer
 aplicacion web
 verdad?
 BIELAS
 EL QUE LEE ESTO ES PUTO
+=======
+alert("Hola alumnos");
+>>>>>>> parent of 6da2499... segundo commit
